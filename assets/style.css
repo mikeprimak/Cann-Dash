@@ -1,0 +1,132 @@
+html{
+height:100%;
+}
+
+body {
+margin: 0;
+padding:0px;
+background-color:#385C39;
+/* background-color:#385C39; */
+color:white;
+font-family:arial;
+font-size:14px;
+height:100%;
+}
+
+
+a {
+color:white !important;
+}
+
+
+
+.container-class{
+margin:0px;
+padding:0;
+color:white;
+font-family:arial;
+}
+
+.dash_dropdown{
+
+}
+
+.rc-slider-track{
+background-color: #FFDB83;
+}
+
+.rc-slider-handle{
+background-color: #FFDB83;
+border-color: #FFDB83 !important;
+}
+
+
+
+.selected_price_range{
+padding-bottom:20px;
+}
+
+.brand_dropdown {
+outline:none !important;
+}
+
+
+.brand_dropdown:hover {
+outline:none !important;
+}
+
+
+.brand_dropdown:active {
+outline:none !important;
+}
+
+
+
+.Select-control {
+    background-color: #4A7B4C !important;
+    color:#C5BD68;
+  }
+
+.Select-menu-outer {
+    background-color: #4A7B4C;
+    color: black;
+}
+
+.Select-value-label {
+    color: white !important;
+    border:1px solid white;
+}
+
+.Select-value-icon {
+    color: white !important;
+    border:1px solid white;
+}
+
+.Select-multi-value-wrapper{
+background-color:#4A7B4C;
+}
+
+.Select-value{
+background-color:#4A7B4C;
+}
+
+
+
+.Select-input{
+background-color:#4A7B4C;
+}
+
+
+.ag-theme-alpine.custom-grid-class {
+    --ag-foreground-color: green;
+    --ag-background-color: #4A7B4C;
+    --ag-header-foreground-color: white;
+    --ag-header-background-color: #385C39;
+    /* --ag-odd-row-background-color: rgb(0, 0, 0, 0.03); */
+    --ag-header-column-resize-handle-color: white;
+
+    --ag-font-size: 13px;
+    --ag-font-family: arial;
+
+}
+
+
+.apply-filters-button{
+width:100%;
+margin-top:20px;
+background-color:#4A7B4C;
+border:1px solid white;
+border-radius:3px;
+color:white;
+padding:8px 0px 8px 0px;
+}
+
+.apply-filters-button:hover{
+background-color:#C5BD68;
+color:black;
+border-color:black;
+}
+
+.agGrid-Markdown > a {
+color:white !important;
+}
